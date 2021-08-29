@@ -1,4 +1,6 @@
-# Pizzeria-Vue-NodeJs
+# Pizzeria
+
+### FRONT STACK
 
 
 * Pizza PWA 
