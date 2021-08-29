@@ -1,6 +1,6 @@
-# Pizzeria
+# Pizzeria PWA
 
-### FRONT STACK
+### FRONT STACK (build with Typescript / NEXT.JS)
 
-
-* Pizza PWA 
+* 
+* Pizza PWA
