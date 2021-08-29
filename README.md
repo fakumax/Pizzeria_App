@@ -1,8 +1,11 @@
 # Pizzeria PWA
 
-### FRONT STACK (build with Typescript / NEXT.JS)
+### FRONT STACK 
 
-* 
-* Pizza PWA
+* Pizza SPA
+
+*Typescript
+*NextJs
+*Chakra-UI
 
 ### BACKEND STACK (build with Typescript / NEXT.JS)
