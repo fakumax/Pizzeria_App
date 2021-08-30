@@ -13,3 +13,6 @@
 *Typescript
 
 *NestJs
+    *class-validator
+    *class-transformer
+    *@nestjs/mapped-types
