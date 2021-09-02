@@ -16,3 +16,7 @@
     *class-validator
     *class-transformer
     *@nestjs/mapped-types
+
+### DB / ODM
+
+* MongoDB / Mongoose
