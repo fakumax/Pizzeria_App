@@ -2,11 +2,14 @@
 
 ### FRONT STACK 
 
+*Framer Motion
+
 *Typescript
+
+*Chakra-UI
 
 *NextJs
 
-*Chakra-UI
 
 ### BACKEND STACK
 
