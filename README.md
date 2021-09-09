@@ -1,4 +1,4 @@
-# Pizzeria SPA
+# PIZZERIA SPA
 
 ### FRONT STACK 
 
