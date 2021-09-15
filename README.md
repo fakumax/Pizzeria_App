@@ -23,3 +23,5 @@
 ### DB / ODM
 
 * MongoDB / Mongoose
+
+### AWS
