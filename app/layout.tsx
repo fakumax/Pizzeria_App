@@ -36,7 +36,7 @@ export default function RootLayout({
       <body className="min-h-full">
         <CartProvider>
           <Header />
-          <main>{children}</main>
+          <main className="overflow-x-hidden">{children}</main>
           <Footer />
         </CartProvider>
       </body>
