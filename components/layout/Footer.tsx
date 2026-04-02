@@ -68,6 +68,20 @@ export default function Footer() {
         horneadas, ingredientes premium y sabores hechos para satisfacer cada
         antojo.
       </div>
+      <div className="mx-auto mt-5 flex max-w-[1400px] flex-col gap-1 border-t border-black/10 pt-4 text-[11.5px] text-[#6b6a60] sm:flex-row sm:items-center sm:justify-between">
+        <span>© 2026 PizzaMago. Todos los derechos reservados.</span>
+        <span>
+          Desarrollado por{" "}
+          <a
+            href="http://fakumax.dev/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-red hover:underline"
+          >
+            fakumax.dev
+          </a>
+        </span>
+      </div>
     </footer>
   );
 }
